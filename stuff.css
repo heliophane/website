@@ -3,13 +3,6 @@
     src: url("mom_regular_macroman/Moms_typewriter-webfont.woff") format("woff");
 }
 
-html, body {
-    width: 100vw;
-    height: 100%
-    
-
-}
-
 a {
     color: inherit;
     text-decoration: inherit;
