@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "momwriter";
+    src: url("mom_regular_macroman/Moms_typewriter-webfont.woff") format("woff");
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.xyzcontainerwhatever {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+
+.momwriter {
+    font-family: momwriter;
+}
+
+@media (prefers-color-scheme: dark){
+    body {
+        background-color: rgb(45, 44, 44);
+        color: rgb(255, 61, 61);
+
+        
+    }
+}
