@@ -1,5 +1,3 @@
-#!!!This repo is old! Check out the new one at https://github.com/heliophane/akella!!!
-
 
 
 # website
